@@ -23,7 +23,7 @@
 
 # <h3 align="left">Nicolas's GitHub Stats:</h3>
 <p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api?username=NicolasAndrehh&show_icons=true&include_all_commits=true&card_width=400&line_height=27px&theme=radical" alt="Nicolas's github stats"/>
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=NicolasAndrehh&show_icons=true&include_all_commits=true&card_width=400&line_height=33px&theme=radical" alt="Nicolas's github stats"/>
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasAndrehh&show_icons=true&locale=en&card_width=400&theme=radical" alt="NicolasAndrehh" />
 </p>
 
