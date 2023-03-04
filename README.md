@@ -2,7 +2,7 @@
 
 ### Hi, I'm Nicolas Olaya!
 
-<img align='right' src="https://media.tenor.com/zk6OuE-RGngAAAAC/midoriya-izuku-anime-stud.gif" width="400" height="300">
+<img align='right' src="https://media.tenor.com/zk6OuE-RGngAAAAC/midoriya-izuku-anime-stud.gif" width="350" height="300">
 
 I'm a Full-Stack Software Developer from Colombia, I enjoy a lot working with JavaScript, React and Ruby on rails and I'm love working on UI and UX design.
 
