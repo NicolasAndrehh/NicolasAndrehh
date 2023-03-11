@@ -8,7 +8,7 @@ I'm a Full-Stack Software Developer from Colombia, I enjoy a lot working with Ja
 
 #### Some interesting things about me:
 
-- I love workout, you could even say that I'm an amateur body builder
+- I love workout, you could even say that I'm a gymrat
 
 - I enjoy watching all kind of anime
 
