@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.tenor.com/zk6OuE-RGngAAAAC/midoriya-izuku-anime-stud.gif" width="400" height="300">
 
-I'm a Full-Stack Software Developer from Colombia, I enjoy a lot working with JavaScript, React and Ruby on rails and I'm love working on UI and UX design.
+I'm a Full-Stack Developer from Colombia. I enjoy working with JavaScript, Node.js, Webpack, and Sass to create engaging and responsive UI designs with great user experience.
 
 #### Some interesting things about me:
 
