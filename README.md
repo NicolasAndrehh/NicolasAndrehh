@@ -56,7 +56,6 @@ I'm a Full-Stack Developer from Colombia. I enjoy working with JavaScript, Node.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
-
 ## <h3 align="center">Nicolas's GitHub Stats:</h3>
 <p align="center">
   <picture>
