@@ -27,6 +27,9 @@ I'm a Full-Stack Developer from Colombia. I enjoy working with JavaScript, React
 <a target="_blank"href="https://twitter.com/nicolasolaya22">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img>
 </a>
+<a target="_blank"href="https://www.instagram.com/nicolasandrehh/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img>
+</a>
 
 ## <h3 align="center">Technology Stack</h3>
 
