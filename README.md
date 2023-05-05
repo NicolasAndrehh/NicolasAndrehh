@@ -1,6 +1,5 @@
 <h1 align="center">Get to Know Me</h1>
 
-
 ### Hi, I'm Nicolas Olaya!
 
 <img align='right' src="https://media.tenor.com/zk6OuE-RGngAAAAC/midoriya-izuku-anime-stud.gif" width="400" height="300">
