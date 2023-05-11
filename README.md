@@ -1,4 +1,4 @@
-<h1 align="center">Get to Know Me</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3C9E65&height=120&text=Get%20To%20Know%20Me&fontSize=30&fontColor=edeef6&animation=twinkling&fontAlignY=30&section=header"/>
 
 ### Hi, I'm Nicolas Olaya!
 
@@ -80,3 +80,4 @@ I'm a Full-Stack Developer from Colombia. I enjoy working with JavaScript, React
   <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 </p>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3C9E65&height=120&section=footer"/>
