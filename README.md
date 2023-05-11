@@ -65,12 +65,12 @@ I'm a Full-Stack Developer from Colombia. I enjoy working with JavaScript, React
 ## <h3 align="center">Nicolas's GitHub Stats:</h3>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=NicolasAndrehh&show_icons=true&include_all_commits=true&card_width=400&line_height=33px&hide_border=true&bg_color=00000000">
-    <img align="" src="https://github-readme-stats.vercel.app/api?username=NicolasAndrehh&show_icons=true&include_all_commits=true&card_width=400&line_height=33px&hide_border=true&theme=radical&bg_color=00000000" alt="Nicolas's github stats"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-pi-83.vercel.app/api?username=NicolasAndrehh&show_icons=true&include_all_commits=true&card_width=400&line_height=33px&hide_border=true&bg_color=00000000">
+    <img align="" src="https://github-readme-stats-five-pi-83.vercel.app/api?username=NicolasAndrehh&show_icons=true&include_all_commits=true&card_width=400&line_height=33px&hide_border=true&theme=radical&bg_color=00000000" alt="Nicolas's github stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasAndrehh&show_icons=true&locale=en&card_width=400&hide_border=true&bg_color=00000000">
-    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolasAndrehh&show_icons=true&locale=en&card_width=400&hide_border=true&theme=radical&bg_color=00000000" alt="Nicolas's Top Langs"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-five-pi-83.vercel.app/api/top-langs?username=NicolasAndrehh&show_icons=true&locale=en&card_width=400&hide_border=true&bg_color=00000000">
+    <img align="" src="https://github-readme-stats-five-pi-83.vercel.app/api/top-langs?username=NicolasAndrehh&show_icons=true&locale=en&card_width=400&hide_border=true&theme=radical&bg_color=00000000&&langs_count=4" alt="Nicolas's Top Langs"/>
   </picture>
 </p>
 
