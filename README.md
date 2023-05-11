@@ -18,17 +18,16 @@ I'm a Full-Stack Developer from Colombia. I enjoy working with JavaScript, React
 - **Spanish** is my native language, and I have a solid upper-intermediate level of **English**
 
 ### Connect with me:
-<a target="_blank" href="https://www.linkedin.com/in/nicolas-andres-olaya-gamba-3b032b248/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img>
-</a> 
+<a href="https://www.linkedin.com/in/nicolas-olaya" target="_blank" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=1ed760&amp;link=https://www.linkedin.com/in/nicolas-olaya"></a>
 <a target="_blank" href="mailto:nicolasolaya22@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&amp;logo=Gmail&amp;logoColor=1ed760&amp;link=mailto:nicolasolaya22@gmail.com">
 </a> 
 <a target="_blank"href="https://twitter.com/nicolasolaya22">
-  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=Twitter&logoColor=1ed760">
 </a>
 <a target="_blank"href="https://www.instagram.com/nicolasandrehh/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=1ed760">
 </a>
 
 ## <h3 align="center">Technology Stack</h3>
