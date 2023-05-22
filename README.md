@@ -12,7 +12,7 @@ I'm a Full-Stack Developer from Colombia. I enjoy working with JavaScript, React
 
 - I enjoy watching all kind of anime
 
-- I'm 19 years old
+- I'm 20 years old
 
 - **Spanish** is my native language, and I have a solid upper-intermediate level of **English**
 
