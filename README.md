@@ -8,9 +8,9 @@ I'm a Full-Stack Developer from Colombia. I enjoy working with JavaScript, React
 
 #### Some interesting things about me:
 
-- I love workout, you could even say that I'm a gymrat
+- I love working out, you could even say that I'm a gym rat
 
-- I enjoy watching all kind of anime
+- I enjoy watching all kinds of anime
 
 - I'm 20 years old
 
