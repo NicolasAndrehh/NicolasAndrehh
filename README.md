@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3C9E65&height=120&text=Get%20To%20Know%20Me&fontSize=30&fontColor=edeef6&animation=twinkling&fontAlignY=30&section=header"/>
 
-
 ### Hi, I'm Nicolas Olaya!
 
 <img align='right' src="https://media.tenor.com/zk6OuE-RGngAAAAC/midoriya-izuku-anime-stud.gif" width="400" height="300">
