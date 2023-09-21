@@ -75,7 +75,7 @@ I'm a Full-Stack Developer from Colombia. I enjoy working with JavaScript, React
 
 #
 <p align="center">You can check out my portfolio 
-  <a href="https://nicolasandrehh.github.io/Nicolas-Olaya-Portfolio/">here</a>
+  <a href="https://nicolasolaya.me">here</a>
   <img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 </p>
 
